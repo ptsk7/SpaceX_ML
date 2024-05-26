@@ -5,6 +5,7 @@ SpaceX offers Falcon 9 launches at $62 million, a price significantly lower than
 How do variables such as payload mass, location of launch site and landing site, number of flights, rocket reusability and orbits affect the success of the first stage landing?
 
 The rate of successful landings increase over the years?
+
 The best algorithm that can be used for binary classification in this case?
 
 
